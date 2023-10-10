@@ -4,9 +4,10 @@ React Router DOM is a widely used library for managing routing in React applicat
 ## Installation
 To incorporate React Router DOM into your project, use npm or yarn:
     
-    ```npm install react-router-dom
-       # or
-       yarn add react-router-dom
+    ```
+    npm install react-router-dom
+    # or
+    yarn add react-router-dom
 
 ## Usage
 1. React Router DOM simplifies navigation and view rendering in your React application. Here's a brief guide on how to use it:
